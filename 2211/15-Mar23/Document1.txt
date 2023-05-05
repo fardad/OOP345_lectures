@@ -1,0 +1,7 @@
+L10 Auto Balance -100
+L11 Acro         -65
+L12 Ret launch    40
+L13 ALT Hld       5
+L14 Circyl        -30
+L15 Self Level    80
+L16 Manual        100

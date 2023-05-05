@@ -1,0 +1,21 @@
+# OOP345-NAA-Notes
+## Session Recordings
+- [Jan 15 - C++ Overview, Compilation, Execution](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1610714847716/capture/)
+- [Jan 19 - C++ Overview, Compilation and Execution & Q&A](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611080851821/capture/)
+- [jan 22 - Pointers, References, and Arrays, Classes and Scoped Enumeration](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611319676921/capture/)
+- [jan 26 - Pointers, References, and Arrays, Classes and Scoped Enumeration (continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1611685660638/capture/)
+- [Feb 02 - Inheritance and Templates](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612290420225/capture/)
+- [Feb 05 - Compositions, Aggregations, and Associations](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612529898873/capture/)
+- [Feb 09 - Expressions](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1612895470874/capture/)
+- [Feb 12 - Funcitons](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1613133818484/capture/)
+- [Feb 16 - Functions(Continued)](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1613500295816/capture/)
+- [Feb 19 - Functions review, exceptions](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1613737739275/capture/)
+- [Mar 09 - Containers](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1615314460021/capture/)
+- [Mar 12 - File IO](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1615552787448/capture/)
+- [Mar 19 - Algorithms and Pointers](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1616155032075/capture/)
+- [Mar 23 - Smart Pointers](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1616520526145/capture/)
+- [Mar 30 - Prepocessor Directives, pointers and Arrays](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617125281827/capture/)
+- [Apr 06 - MultiThreading](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617729721317/capture/)
+- [Apr 09 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1617969877322/capture/)
+- [Apr 13 - Bit More Multi-Threading, multiple inheritance, Bitwise Operators](https://recordings.rna2.blindsidenetworks.com/senecacollege/96f0b46aa442de771ce25d9e6f10f4dcf5368ba4-1618334737478/capture/)
+

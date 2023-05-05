@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+   int i;
+   27 = i;
+   27++;
+   -27;  //ok
+   a + c * d;
+   return 0;
+}

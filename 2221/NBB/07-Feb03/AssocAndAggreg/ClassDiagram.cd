@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Book">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABGACSIAUAAAAEAAAAQCABgAAACAAA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOAble" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAICAAAAAAAAEAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>IOAble.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HideSubContent" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAQAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOAble.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECCSAAQgAAAEoAAAACABgAAACIAA=</HashCode>
+      <FileName>Library.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Title" Collapsed="true">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAQCAAAQAAAAUBAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Title.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

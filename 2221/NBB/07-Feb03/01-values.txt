@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+class Name {
+public:
+   Name(const char* c);
+};
+Name foo() {
+   Name N("whatever");
+   return N;
+}
+int main() {
+   Name("XValue");
+   Name X("123");
+   X = foo();
+   foo() = "123";
+   int i;
+   27 = i;
+   return 0;
+}
