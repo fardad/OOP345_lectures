@@ -1,0 +1,3 @@
+   cout << "This is crazy" << endl; 
+   return 0;
+}
