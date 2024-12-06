@@ -5,7 +5,7 @@ std::ostream& operator<<(std::ostream& os, const IOAble& T) {
 std::istream& operator>> (std::istream& is, IOAble& T) {
    return T.read(is);
 }
-IOAble::~IOAble() {}
+
 
 HideSubContent& HideSubContent::setOs(std::ostream& os) {
    m_os = &os;

@@ -7,7 +7,7 @@ public:
    virtual std::ostream& display(std::ostream& os = std::cout)const = 0;
    virtual std::istream& read(std::istream& is = std::cin) = 0;
    virtual void hideSubContent() = 0;
-   virtual ~IOAble();
+   virtual ~IOAble() = default;
 };
 
 

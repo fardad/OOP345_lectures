@@ -5,7 +5,7 @@
 #include <numeric>
 
 /*
-stransform_reduce args:
+transform_reduce args:
    exectuion policy      (std::execution::seq , par, par_unseg)
    iterator beg
    iterator end

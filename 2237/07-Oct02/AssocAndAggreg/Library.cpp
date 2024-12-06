@@ -52,8 +52,9 @@ bool Library::remove(const Book& B) {
 ostream& Library::display(ostream& os)const {
    os << m_title << " library" ;
    if (m_hidBooksInNextPrint) {
-      bool* flag = const_cast<bool*>(&m_hidBooksInNextPrint);
-      *flag = false;
+      *(const_cast<bool*>(&m_hidBooksInNextPrint)) = false;
+      //bool* flag = const_cast<bool*>(&m_hidBooksInNextPrint);
+      //*flag = false;
    }else if( m_noOfBooks){
       os << endl << "Books avalilable:";
       for (unsigned int i = 0; i < m_noOfBooks; i++) {
