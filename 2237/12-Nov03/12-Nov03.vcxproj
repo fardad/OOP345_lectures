@@ -128,8 +128,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="b-binOutForClassWithResource.cpp" />
     <ClCompile Include="DEmployee.cpp" />
-    <ClCompile Include="prg.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="employee.txt" />

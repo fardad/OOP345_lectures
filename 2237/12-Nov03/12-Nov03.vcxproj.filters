@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prg.cpp">
+    <ClCompile Include="DEmployee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DEmployee.cpp">
+    <ClCompile Include="b-binOutForClassWithResource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

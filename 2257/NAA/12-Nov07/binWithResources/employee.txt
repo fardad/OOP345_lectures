@@ -1,0 +1,19 @@
+Homer Simpson,10235,12345.67
+Ned Flanders,11236,23456.89
+Waylon Smithers,12495,34567.90
+Lenny Leonard,13795,45678.00
+Edna Krabappel,14236,56789.10
+Barry Mackleberry,15888,97453.25
+Charles Montgomery Burns,16852,512526.32
+Larry Burns,17526,25364.25
+Carl Carlson,18369,12365.32
+Chip Davis,19485,12586.25
+Joey Crusher,20159,12893.25
+Jack Marley,21478,12369.33
+Robert Marlow,22458,48963.55
+Eugene Fisk,23584,78952.33
+Mindy Simmons,24896,19379.44
+Frank Grimes,25789,12369.55
+Wayne Slater,26741,79356.33
+Herbert Powell,27596,82269.55
+Hans Moleman,28456,16982.22

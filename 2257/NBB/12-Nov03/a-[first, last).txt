@@ -1,0 +1,7 @@
+// [first, last)
+/*
+[ : Inclusive – The range starts at the iterator first (includes the 
+                element it points to).
+) : Exclusive – The range ends just before the iterator last (does not
+                include the element it points to, if any).
+*/
