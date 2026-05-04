@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="12-Mar16.vcxproj" />
+  <Project Path="binFile/binFile.vcxproj" />
+  <Project Path="binFileReadIterator/binFileReadIterator.vcxproj" />
+</Solution>
