@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Aggregation/Aggregation.vcxproj" Id="4b137f5e-4a81-47ec-9f1c-a08df16d8b65" />
+  <Project Path="f-May26.vcxproj" Id="f6ff1717-0dad-4069-b8c0-56d1302b1f28" />
+</Solution>

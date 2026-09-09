@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="i-Jun03.vcxproj" Id="eda55c53-364c-4fdf-a8a6-19a412748544" />
+  <Project Path="Int4Lamba/Int4Lamba.vcxproj" Id="c397a33e-9e6c-4b90-b168-b7454515543e" />
+  <Project Path="int4LambdaCaptureRef/int4LambdaCaptureRef.vcxproj" Id="46bda486-45da-4e71-827d-15ff365c9fd7" />
+  <Project Path="Int6Exception/Int6Exception.vcxproj" Id="0955cd74-893b-4064-a290-ea4d9d94f3a7" />
+</Solution>
